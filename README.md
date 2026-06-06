@@ -45,53 +45,7 @@ Hi, I'm **Ngoun Heng Kimlay**, a passionate Web Developer focused on building mo
 * Vercel
 * GitLab
 
-## 📂 Project Structure
-
-```bash
-portfolio/
-├── assets/
-├── components/
-├── composables/
-├── layouts/
-├── pages/
-├── public/
-├── server/
-└── app.vue
-```
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/ngounhengkimlaydev/portfolio
-```
-
-Navigate to the project:
-
-```bash
-cd portfolio
-```
-
-Install dependencies:
-
-```bash
-pnpm install
-```
-
-Run development server:
-
-```bash
-pnpm dev
-```
-
-Build for production:
-
-```bash
-pnpm build
-```
-
-## 🌍 Live Demo
+## 🌍 Live
 
 Portfolio Website:
 
@@ -103,7 +57,3 @@ https://ngounhengkimlay.site/
 * GitLab: https://gitlab.com/ngounhengkimlay4
 * GitHub: https://github.com/ngounhengkimlaydev
 * LinkedIn: https://www.linkedin.com/in/ngoun-hengkimlay
-
----
-
-Made with ❤️ by Ngoun Heng Kimlay
